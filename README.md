@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://footprint.ailatest.org/"><img src="https://img.shields.io/badge/Live_Site-footprint.ailatest.org-0ea5e9?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
-  <a href="https://ailatest.org/projects/footprint/"><img src="https://img.shields.io/badge/Studio_Page-Footprint-blue?style=for-the-badge" alt="Studio"></a>
+  <a href="https://footprint.ailatest.org/"><img src="https://img.shields.io/badge/立即探索-footprint.ailatest.org-0ea5e9?style=for-the-badge&logo=cloudflare" alt="Live Site"></a>
+  <a href="https://ailatest.org/projects/footprint/"><img src="https://img.shields.io/badge/产品介绍页-Footprint-blue?style=for-the-badge" alt="Studio"></a>
 </p>
 
 ---
@@ -21,13 +21,13 @@
   </a>
 </p>
 
-### 2. 真实在线地图界面截图 (Live Application Screenshot)
+### 2. 真实在线地图界面截图 (Live Application Interface)
 <p align="center">
   <a href="https://footprint.ailatest.org/">
     <img src="assets/screenshots/preview.png" alt="Footprint 真实在线地图界面截图" width="920">
   </a>
 </p>
-<p align="center"><em>界面截图截取自线上生产环境 <a href="https://footprint.ailatest.org/">footprint.ailatest.org</a>。</em></p>
+<p align="center"><em>界面截图截取自线上站点 <a href="https://footprint.ailatest.org/">footprint.ailatest.org</a>。</em></p>
 
 ---
 
