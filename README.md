@@ -53,6 +53,10 @@
 
 ---
 
+### 🏷 Related Topics & Search Keywords
+`publication-tracker` · `academic-badge-wall` · `journal-badges` · `orcid-import` · `cnki-import` · `submission-status-tracker` · `editorial-manager-alert` · `scholarone-tracker` · `elsevier-submission` · `academic-cv`
+
+---
 <a id="chinese"></a>
 <p align="right">
   <a href="#top"><b>Back to Top (English)</b></a> | <b>中文说明</b>
@@ -76,3 +80,6 @@
 4. **标准论文清单快速导出**：一键生成纯净的 APA 7、MLA、Chicago 或 GB/T 7714 格式参考文献，支持作者信息补全。
 
 🌐 **立即在线体验**：[**https://footprint.ailatest.org/**](https://footprint.ailatest.org/)
+
+### 🏷 热门搜索关键词与相关主题
+`我的发表足迹` · `发表足迹` · `学术成果管理` · `期刊徽章墙` · `知网文献导入` · `ORCID同步` · `投稿状态自动跟踪` · `Elsevier投稿进度` · `EditorialManager跟踪` · `ScholarOne进度` · `引文清单导出`
